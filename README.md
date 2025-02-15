@@ -1,2 +1,2 @@
-# College-sports-website
+# Demo website
 just an demo
